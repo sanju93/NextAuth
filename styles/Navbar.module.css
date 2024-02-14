@@ -1,0 +1,30 @@
+.header{
+    height : 20vh;
+    width : 100vw;
+    background-color: red;
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+
+
+.lists{
+    height : 100%;
+    width :20%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+    
+}
+
+.link{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.list{
+    list-style: none;
+    font-size: larger;
+}
